@@ -1,2 +1,0 @@
-let algo
-let otroAlgo
